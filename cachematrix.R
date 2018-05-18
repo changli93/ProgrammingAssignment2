@@ -25,3 +25,4 @@ cacheSolve <- function(x, ...) {
   x$setInverse(invmat)
   invmat      
 }
+
